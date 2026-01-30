@@ -1,1 +1,5 @@
-# quarkus-tmp-1
+clone, then run
+
+```
+./mvnw test | grep "Secret" | grep "INFO"
+```
